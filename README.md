@@ -29,7 +29,7 @@ dotnet run -r USERNAME MASTER_PASSWORD
 
 Pour ajouter un mot de passe
 ```
-dotnet run -r USERNAME MASTER_PASSWORD TAG PASSWORD
+dotnet run -a USERNAME MASTER_PASSWORD TAG PASSWORD
 ```
 
 Pour récuperrer un mot de passe
