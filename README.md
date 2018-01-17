@@ -45,7 +45,7 @@ dotnet run -d USERNAME MASTER_PASSWORD TAG
 
 ## Caractéristiques de sécurité
 
-Les mots de passes sont sauvegardés en utilisant un chiffrement symétrique AES-256 avec l'algorithme PBKF2. Du sel aléatoire est de plus ajouté à chaque mot de passe.
+Les mots de passe sont sauvegardés en utilisant un chiffrement symétrique AES-256, sa clé est générée à partir du mot de passe maître avec l'algorithme PBKF2. Du sel aléatoire est de plus ajouté à chaque mot de passe.
 
 ## Dévellopé avec
 
