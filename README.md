@@ -51,7 +51,7 @@ Les mots de passe sont sauvegardés en utilisant un chiffrement symétrique AES-
 
 * [.NET core 2.0](https://www.microsoft.com/net/learn/get-started/windows) - Le framework utilisé
 
-## Autheurs
+## Auteurs
 
 * **Guillaume Haerinck** 
 * **Azis Tekaya**
